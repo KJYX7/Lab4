@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kathy\\source\\repos\\ClassLibraryProjects\\",
+  "WorkspaceRootPath": "C:\\Users\\Kathy\\Documents\\GitHub\\Lab4\\ClassLibraryProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B59931A-1F0B-442B-A9DB-27029E511EF0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kathy\\source\\repos\\classlibraryprojects\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B59931A-1F0B-442B-A9DB-27029E511EF0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kathy\\documents\\github\\lab4\\classlibraryprojects\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B59931A-1F0B-442B-A9DB-27029E511EF0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89C2593C-DD52-4B3C-B75D-B6FDDDC63F93}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\kathy\\source\\repos\\classlibraryprojects\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89C2593C-DD52-4B3C-B75D-B6FDDDC63F93}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\kathy\\documents\\github\\lab4\\classlibraryprojects\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89C2593C-DD52-4B3C-B75D-B6FDDDC63F93}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kathy\\source\\repos\\ClassLibraryProjects\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kathy\\Documents\\GitHub\\Lab4\\ClassLibraryProjects\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Kathy\\source\\repos\\ClassLibraryProjects\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kathy\\Documents\\GitHub\\Lab4\\ClassLibraryProjects\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAzwCIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T15:50:51.598Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Kathy\\source\\repos\\ClassLibraryProjects\\ClassLibrary1\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kathy\\Documents\\GitHub\\Lab4\\ClassLibraryProjects\\ClassLibrary1\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
-              "ToolTip": "C:\\Users\\Kathy\\source\\repos\\ClassLibraryProjects\\ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kathy\\Documents\\GitHub\\Lab4\\ClassLibraryProjects\\ClassLibrary1\\Class1.cs",
               "RelativeToolTip": "ClassLibrary1\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
